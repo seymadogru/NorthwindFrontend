@@ -1,5 +1,11 @@
 # Northwind
 
+!!!!
+PLEASE CONNECT TO NORTHWIND BACKEND PROJECT. THAT PROJECT IS AVAILABLE ON MY GITHUB: https://github.com/seymadogru/NorthwindBackend
+
+!!!!
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
 ## Development server
